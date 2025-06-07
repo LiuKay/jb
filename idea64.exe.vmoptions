@@ -1,0 +1,8 @@
+-Xms1g
+-Xmx2g
+-XX:ReservedCodeCacheSize=1024m
+-Dfile.encoding=UTF-8
+-XX:ErrorFile=$USER_HOME/java_error_in_idea_%p.log
+-XX:HeapDumpPath=$USER_HOME/java_error_in_idea.hprof
+
+
